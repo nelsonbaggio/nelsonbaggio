@@ -14,5 +14,5 @@
 <a href="https://twitter.com/03baggio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="baggio03" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/nelson-baggio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nelson-baggio" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/nelson-baggio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="nelson-baggio" height="20" width="20" /></a>
-<a href="https://instagram.com/nelsonbaggio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nelsonbaggio" height="20" width="20" /></a>
+<a href="https://instagram.com/baggionelson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nelsonbaggio" height="20" width="20" /></a>
 </p>
